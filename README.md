@@ -1,2 +1,2 @@
-# basic-function
-Basic JS function
+# basic-functions
+Basic JS functions
